@@ -1,0 +1,97 @@
+ body{
+    font-family: 'Roboto', sans-serif;
+
+      }
+    .menu{
+           margin-top: 100px;
+      margin-bottom: 100px;
+      max-width: 1100px !important;
+
+      border-radius: 10px;
+      }
+       .title-index-1{
+        font-size:37pt;
+        font-weight: 500;
+      }
+       .title-index-2{
+        font-size:12pt;
+        font-weight: 400;
+        padding-bottom: 20px;
+      }
+      .body-soal{
+        text-decoration: none;
+        color: #000;
+
+      }
+
+      .title-soal{
+        -webkit-box-shadow:   3px 2px 10px 1px #EAEAEA;  /* Safari 3-4, iOS 4.0.2 - 4.2, Android 2.3+ */
+        -moz-box-shadow:      3px 2px 10px 1px #EAEAEA;  /* Firefox 3.5 - 3.6 */
+      box-shadow:         3px 2px 10px 0.5px #EAEAEA;  /* Opera 10.5, IE 9, Firefox 4+, Chrome 6+, iOS 5 */
+      border-radius: 10px;
+      padding: 20px;
+      margin-top: 15px;
+      margin-bottom: 15px; 
+              color: #000;
+              font-weight: 400;
+              font-size: 12pt;
+          }
+       .r-title{
+       	font-size: 14pt;
+       	font-weight: 500;
+       }
+       .r-before {
+       	font-size: 12pt;
+       	font-weight: 400;
+       	color: #F01212;
+       	padding-top: 2px;
+       	padding-bottom: 2px;
+       }
+       .r-after{
+		font-size: 12pt;
+       	font-weight: 400;
+       	color: #04D862;
+       	padding-top: 2px;
+       	padding-bottom: 2px;
+       }
+ .title{
+        font-size:37pt;
+        color: #fff;
+        font-weight: 800;
+      }
+      .title-after{
+        padding-top: 40px;
+        padding-bottom: 5px;
+        font-size: 14pt;
+        font-weight: 700;
+      }
+      .content {
+        font-size:12pt;
+        padding-top: 10px;
+        padding-bottom: 10px;
+        font-weight: 400;
+      }
+      .content-date{
+          font-size:12pt;
+          font-weight: 600;
+      }
+      .lebar{
+        padding: 20px;
+        margin-right: 20px;
+        margin-left: 20px;
+         max-width: 700px !important;
+      }
+      .email{
+             font-size:12pt;
+             padding-bottom: 8px;
+             padding-top: 8px;
+             font-weight: 500;
+      }
+      .btn-subs{
+        background-color: #f3b404;
+        font-weight: 500;
+            -webkit-box-shadow: 0 2px 4px rgba(0,0,0,0.2), 0 1px 0 rgba(255,255,255,0.2) inset;
+  -moz-box-shadow: 0 2px 4px rgba(0,0,0,0.2), 0 1px 0 rgba(255,255,255,0.2) inset;
+  box-shadow: 0 2px 4px rgba(0,0,0,0.2), 0 1px 0 rgba(255,255,255,0.2) inset;
+
+      }
